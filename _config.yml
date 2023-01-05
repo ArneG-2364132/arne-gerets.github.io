@@ -28,7 +28,7 @@ twitter_username: ArneGerets
 github_username: arne-gerets 
 
 # Build settings
-theme: minima
+remote_theme: architect
 plugins:
   - jekyll-feed
 
