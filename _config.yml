@@ -30,7 +30,6 @@ header_pages:
   - portfolio.md
 
 # Build settings
-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
@@ -41,6 +40,8 @@ defaults:
     values:
       layout: "page"
       permalink: /:title
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
